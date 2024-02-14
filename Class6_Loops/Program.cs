@@ -28,7 +28,7 @@ namespace Class6_Loops
                 Console.WriteLine("{0} * {1} = {2}", i, num, i * num);
             }
 
-            Console.WriteLine("--------------------- Exercise 2 -----------------------");
+
 
         }
     }
